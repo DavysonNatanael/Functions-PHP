@@ -29,4 +29,4 @@ Nesse repositório estou disponibilizando as funções em PHP de minha autoria.
   Contribuição:
   ```
 * Licensa
-
+  Licensed under the MIT license.

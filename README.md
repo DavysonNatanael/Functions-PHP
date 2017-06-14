@@ -28,3 +28,5 @@ Nesse repositório estou disponibilizando as funções em PHP de minha autoria.
   Usuário:
   Contribuição:
   ```
+* Licensa
+

@@ -4,12 +4,6 @@
     *Data de Criação: 14/06/2017
     */
 
-    //Variável com o nome completo.
-    $nome = "Davyson nataNAel sindeauX DE olivEira";
-
-    echo "Nome digitado pelo usuário: $nome";
-    echo "<br><br>";
-
     //Função criada para organizar o nome nos padrões de escrita.
     function nomeOrganizado ($nome) {
         //Retira os espaços no inicio e no fim do nome.
@@ -46,6 +40,12 @@
         //Retorna o nome completo.
         return $nomeOrganizado;
     }
+
+    //Variável com o nome completo.
+    $nome = "Davyson nataNAel sindeauX DE olivEira";
+
+    echo "Nome digitado pelo usuário: $nome";
+    echo "<br><br>";
 
     //Variável que receberá o retorno da função. É preciso enviar um parâmetro(nome a ser modificado).
     $nomeAposFuncao = nomeOrganizado($nome);
